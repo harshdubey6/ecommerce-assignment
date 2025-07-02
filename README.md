@@ -2,7 +2,7 @@
 
 A RESTful API for managing products, categories, and user-specific carts in an e-commerce app.
 
-> 🌐 **Live URL**: [https://ecommerce-assignment-production.up.railway.app](https://ecommerce-assignment-production.up.railway.app)
+> 🌐 **Live URL**: [https://ecommerce-assignment-production.up.railway.app/products](https://ecommerce-assignment-production.up.railway.app/products)
 
 ---
 
